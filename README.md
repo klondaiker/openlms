@@ -4,3 +4,4 @@
 2. make install
 3. make build
 4. make run
+5. Run browser -> localhost:3000
